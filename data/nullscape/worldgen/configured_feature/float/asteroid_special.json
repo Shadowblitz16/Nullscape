@@ -274,7 +274,7 @@
           "Name": "minecraft:obsidian"
         }
       ],
-      "cannot_replace": "#minecraft:carpets",
+      "cannot_replace": "#minecraft:wool_carpets",
       "invalid_blocks": "#nullscape:end_bottom"
     },
     "layers": {
